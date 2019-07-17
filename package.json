@@ -1,5 +1,5 @@
 {
-  "name": "core-js-demo",
+  "name": "corejs-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,6 +34,7 @@
     "@storybook/addon-actions": "^5.1.9",
     "@storybook/addon-links": "^5.1.9",
     "@storybook/addons": "^5.1.9",
-    "@storybook/react": "^5.1.9"
+    "@storybook/react": "^5.1.9",
+    "fetch-mock": "^7.3.6"
   }
 }
